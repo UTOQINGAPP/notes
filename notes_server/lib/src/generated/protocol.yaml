@@ -1,0 +1,8 @@
+example:
+  - hello:
+notes:
+  - create:
+  - delete:
+  - deleteAll:
+  - update:
+  - getAll:
